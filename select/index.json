@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Landing action Yeah!!",
+  "base_artist": "樋口 楓",
+  "createdAt": "2026-02-18T08:25:42.665897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Landing action Yeah!!",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/01_Landing_action_Yeah!!_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (国木田花丸 Solo Ver.)",
+      "artist": "国木田花丸 (CV.高槻かなこ)",
+      "has_synced": true,
+      "path": "select/02_Landing_action_Yeah!!_(国木田花丸_Solo_Ver.)_国木田花丸_(CV.高槻かなこ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (国木田花丸 Solo Ver.)",
+      "artist": "高槻かなこ",
+      "has_synced": true,
+      "path": "select/03_Landing_action_Yeah!!_(国木田花丸_Solo_Ver.)_高槻かなこ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (小原鞠莉 Solo Ver.)",
+      "artist": "小原鞠莉 (CV.鈴木愛奈)",
+      "has_synced": true,
+      "path": "select/04_Landing_action_Yeah!!_(小原鞠莉_Solo_Ver.)_小原鞠莉_(CV.鈴木愛奈).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (小原鞠莉 Solo Ver.)",
+      "artist": "鈴木愛奈",
+      "has_synced": true,
+      "path": "select/05_Landing_action_Yeah!!_(小原鞠莉_Solo_Ver.)_鈴木愛奈.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (松浦果南 Solo Ver.)",
+      "artist": "松浦果南 (CV.諏訪ななか)",
+      "has_synced": true,
+      "path": "select/06_Landing_action_Yeah!!_(松浦果南_Solo_Ver.)_松浦果南_(CV.諏訪ななか).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (松浦果南 Solo Ver.)",
+      "artist": "諏訪ななか",
+      "has_synced": true,
+      "path": "select/07_Landing_action_Yeah!!_(松浦果南_Solo_Ver.)_諏訪ななか.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (桜内梨子 Solo Ver.)",
+      "artist": "桜内梨子 (CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/08_Landing_action_Yeah!!_(桜内梨子_Solo_Ver.)_桜内梨子_(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (桜内梨子 Solo Ver.)",
+      "artist": "逢田梨香子",
+      "has_synced": true,
+      "path": "select/09_Landing_action_Yeah!!_(桜内梨子_Solo_Ver.)_逢田梨香子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (津島善子 Solo Ver.)",
+      "artist": "津島善子 (CV.小林愛香)",
+      "has_synced": true,
+      "path": "select/10_Landing_action_Yeah!!_(津島善子_Solo_Ver.)_津島善子_(CV.小林愛香).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (津島善子 Solo Ver.)",
+      "artist": "小林愛香",
+      "has_synced": true,
+      "path": "select/11_Landing_action_Yeah!!_(津島善子_Solo_Ver.)_小林愛香.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (渡辺 曜 Solo Ver.)",
+      "artist": "渡辺 曜 (CV.斉藤朱夏)",
+      "has_synced": true,
+      "path": "select/12_Landing_action_Yeah!!_(渡辺_曜_Solo_Ver.)_渡辺_曜_(CV.斉藤朱夏).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (渡辺曜 Solo Ver.)",
+      "artist": "斉藤朱夏",
+      "has_synced": true,
+      "path": "select/13_Landing_action_Yeah!!_(渡辺曜_Solo_Ver.)_斉藤朱夏.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (高海千歌 Solo Ver.)",
+      "artist": "高海千歌 (CV.伊波杏樹)",
+      "has_synced": true,
+      "path": "select/14_Landing_action_Yeah!!_(高海千歌_Solo_Ver.)_高海千歌_(CV.伊波杏樹).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (高海千歌 Solo Ver.)",
+      "artist": "伊波杏樹",
+      "has_synced": true,
+      "path": "select/15_Landing_action_Yeah!!_(高海千歌_Solo_Ver.)_伊波杏樹.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (黒澤ダイヤ Solo Ver.)",
+      "artist": "黒澤ダイヤ (CV.小宮有紗)",
+      "has_synced": true,
+      "path": "select/16_Landing_action_Yeah!!_(黒澤ダイヤ_Solo_Ver.)_黒澤ダイヤ_(CV.小宮有紗).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (黒澤ダイヤ Solo Ver.)",
+      "artist": "小宮有紗",
+      "has_synced": true,
+      "path": "select/17_Landing_action_Yeah!!_(黒澤ダイヤ_Solo_Ver.)_小宮有紗.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (黒澤ルビィ Solo Ver.)",
+      "artist": "黒澤ルビィ (CV.降幡 愛)",
+      "has_synced": true,
+      "path": "select/18_Landing_action_Yeah!!_(黒澤ルビィ_Solo_Ver.)_黒澤ルビィ_(CV.降幡_愛).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Landing action Yeah!! (黒澤ルビィ Solo Ver.)",
+      "artist": "降幡愛",
+      "has_synced": true,
+      "path": "select/19_Landing_action_Yeah!!_(黒澤ルビィ_Solo_Ver.)_降幡愛.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Landing action Yeah!!",
+      "artist": "樋口楓",
+      "has_synced": false,
+      "path": "select/pl_01_Landing_action_Yeah!!_樋口楓.txt"
+    }
+  ]
+}
